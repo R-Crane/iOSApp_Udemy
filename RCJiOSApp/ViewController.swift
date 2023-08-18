@@ -12,7 +12,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view. Test to Github
-        // push test
+        // test for today 10.06
         //test for the next day
     }
 
