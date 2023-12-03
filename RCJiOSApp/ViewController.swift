@@ -13,7 +13,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view. Test to Github
         // test for today 10.06
-        //test for the next day
+        // install of iOS 17 simulator
     }
 
 
